@@ -6,7 +6,7 @@
 
 ### Run Application
 
-    /www/index.html
+    /www/index.html 
 
 ### Run Tests
 
